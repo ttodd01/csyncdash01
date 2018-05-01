@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1ed53112-8cda-426f-9e00-cb07559323f4" name="PurityVPS" url="http://198.27.79.102/">
+        <fileTransfer host="198.27.79.102" port="22" rootFolder="/home/public_html/" accessType="SFTP" password="dffadfdfdfd8dfc3dfdedfd3df9bdf98df8b" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
