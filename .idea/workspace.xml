@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c5e14654-c130-419a-998f-f8f4d0d8e27b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/UserReferrals.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app_login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app_login.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app_register.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app_register.blade.php" afterDir="false" />
     </list>
     <ignored path="PurityDashboard.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,80 +27,68 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_ide_helper.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_ide_helper.php">
+      <file leaf-file-name="CollabController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CollabController.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="EarningsController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/EarningsController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="8692" column="10" selection-start-line="8692" selection-start-column="10" selection-end-line="8692" selection-end-column="10" />
+            <state relative-caret-position="17">
+              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GearController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/GearController.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="HomeController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="SiteController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/SiteController.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="SystemController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/SystemController.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="TrendsController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/TrendsController.php">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="login.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/auth/login.blade.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="email.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/auth/passwords/email.blade.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="reset.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/auth/passwords/reset.blade.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="welcome.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="home.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="6" lean-forward="true" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+            <state relative-caret-position="765">
+              <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="session.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/session.php">
+      <file leaf-file-name="app_login.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/layouts/app_login.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-969" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/User.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-              <folding>
-                <element signature="e#23#58#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="204">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2014_10_12_000000_create_users_table.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
+      <file leaf-file-name="app_register.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/layouts/app_register.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="45" column="56" lean-forward="true" selection-start-line="45" selection-start-column="56" selection-end-line="45" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AuthController.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-              <folding>
-                <element signature="e#43#56#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="119">
+              <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -129,7 +117,10 @@
         <option value="$PROJECT_DIR$/database/migrations/2018_02_20_120715_AddToNetworkTable.php" />
         <option value="$PROJECT_DIR$/database/migrations/2016_02_18_183908_networksettings.php" />
         <option value="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" />
+        <option value="$PROJECT_DIR$/config/app.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/app_login.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/app_register.blade.php" />
       </list>
     </option>
   </component>
@@ -320,7 +311,41 @@
               <item name="CreatorSyncDash" type="b2602c69:ProjectViewProjectNode" />
               <item name="creatorsyncdash" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Middleware" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CreatorSyncDash" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creatorsyncdash" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="Models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CreatorSyncDash" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creatorsyncdash" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Models" type="462c0819:PsiDirectoryNode" />
+              <item name="Apps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CreatorSyncDash" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creatorsyncdash" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Models" type="462c0819:PsiDirectoryNode" />
+              <item name="Network" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CreatorSyncDash" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creatorsyncdash" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Models" type="462c0819:PsiDirectoryNode" />
+              <item name="Ranking" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CreatorSyncDash" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creatorsyncdash" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Providers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CreatorSyncDash" type="b2602c69:ProjectViewProjectNode" />
@@ -362,7 +387,22 @@
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="emails" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CreatorSyncDash" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creatorsyncdash" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
               <item name="passwords" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CreatorSyncDash" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creatorsyncdash" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -374,7 +414,7 @@
   <component name="PropertiesComponent">
     <property name="FullScreen" value="false" />
     <property name="LayoutCode.rearrangeEntriesBlade" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="user&#9;FILE&#9;file://D:/laragon/www/creatorsyncdash/app/User.php&#10;session&#9;null&#9;null&#10;routes&#9;FILE&#9;file://D:/laragon/www/creatorsyncdash/app/Http/routes.php&#10;git&#9;ACTION&#9;Git.Init&#10;UserC&#9;FILE&#9;file://D:/laragon/www/creatorsyncdash/app/Http/Controllers/UserController.php&#10;User&#9;FILE&#9;file://D:/laragon/www/creatorsyncdash/app/User.php&#10;Home&#9;FILE&#9;file://D:/laragon/www/creatorsyncdash/app/Http/Controllers/HomeController.php&#10;app.php&#9;FILE&#9;file://D:/laragon/www/yodash/config/app.php&#10;route&#9;FILE&#9;file://D:/laragon/www/yodash/app/Http/routes.php&#10;home&#9;FILE&#9;file://D:/laragon/www/yodash/app/Http/Controllers/HomeController.php&#10;AuthC&#9;FILE&#9;file://D:/laragon/www/yodash/app/Http/Controllers/Auth/AuthController.php&#10;UserR&#9;null&#9;null&#10;rout&#9;FILE&#9;file://D:/laragon/www/yodash/app/Http/routes.php&#10;app&#9;FILE&#9;file://D:/laragon/www/yodash/config/app.php&#10;YouTu&#9;null&#9;null&#10;youtube&#9;FILE&#9;file://D:/laragon/www/yodash/config/youtubeconfig.php&#10;authentic&#9;null&#9;null&#10;authent&#9;null&#9;null&#10;userpro&#9;null&#9;null&#10;menu&#9;FILE&#9;file://F:/Backup/xampp/htdocs/PurityDashboard/app/Http/Middleware/NavigationMenu.php&#10;app.&#9;FILE&#9;file://F:/Backup/xampp/htdocs/PurityDashboard/config/app.php&#10;blue.css&#9;FILE&#9;file://F:/Backup/xampp/htdocs/PurityDashboard/public/assets/css/theme/blue.css&#10;routes.php&#9;FILE&#9;file://F:/Backup/xampp/htdocs/PurityDashboard/app/Http/routes.php" />
+    <property name="SearchEverywhereHistoryKey" value="app.p&#9;FILE&#9;file://D:/laragon/www/creatorsyncdash/config/app.php&#10;app.php&#9;FILE&#9;file://D:/laragon/www/creatorsyncdash/app/Models/Apps/App.php&#10;user&#9;FILE&#9;file://D:/laragon/www/creatorsyncdash/app/User.php&#10;session&#9;null&#9;null&#10;routes&#9;FILE&#9;file://D:/laragon/www/creatorsyncdash/app/Http/routes.php&#10;git&#9;ACTION&#9;Git.Init&#10;UserC&#9;FILE&#9;file://D:/laragon/www/creatorsyncdash/app/Http/Controllers/UserController.php&#10;User&#9;FILE&#9;file://D:/laragon/www/creatorsyncdash/app/User.php&#10;Home&#9;FILE&#9;file://D:/laragon/www/creatorsyncdash/app/Http/Controllers/HomeController.php&#10;route&#9;FILE&#9;file://D:/laragon/www/yodash/app/Http/routes.php&#10;home&#9;FILE&#9;file://D:/laragon/www/yodash/app/Http/Controllers/HomeController.php&#10;AuthC&#9;FILE&#9;file://D:/laragon/www/yodash/app/Http/Controllers/Auth/AuthController.php&#10;UserR&#9;null&#9;null&#10;rout&#9;FILE&#9;file://D:/laragon/www/yodash/app/Http/routes.php&#10;app&#9;FILE&#9;file://D:/laragon/www/yodash/config/app.php&#10;YouTu&#9;null&#9;null&#10;youtube&#9;FILE&#9;file://D:/laragon/www/yodash/config/youtubeconfig.php&#10;authentic&#9;null&#9;null&#10;authent&#9;null&#9;null&#10;userpro&#9;null&#9;null&#10;menu&#9;FILE&#9;file://F:/Backup/xampp/htdocs/PurityDashboard/app/Http/Middleware/NavigationMenu.php&#10;app.&#9;FILE&#9;file://F:/Backup/xampp/htdocs/PurityDashboard/config/app.php&#10;blue.css&#9;FILE&#9;file://F:/Backup/xampp/htdocs/PurityDashboard/public/assets/css/theme/blue.css&#10;routes.php&#9;FILE&#9;file://F:/Backup/xampp/htdocs/PurityDashboard/app/Http/routes.php" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
@@ -461,7 +501,7 @@
       <workItem from="1519396551587" duration="749000" />
       <workItem from="1519495463751" duration="894000" />
       <workItem from="1519556608488" duration="319000" />
-      <workItem from="1525299834798" duration="2927000" />
+      <workItem from="1525299834798" duration="4024000" />
     </task>
     <task id="LOCAL-00001" summary="TurboLinks">
       <created>1454667631955</created>
@@ -624,11 +664,25 @@
       <option name="project" value="LOCAL" />
       <updated>1525304232192</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="&#10;FIx 2">
+      <created>1525304484530</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1525304484530</updated>
+    </task>
+    <task id="LOCAL-00025" summary="&#10;FIx 3">
+      <created>1525305140075</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1525305140075</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53886000" />
+    <option name="totallyTimeSpent" value="54983000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -694,165 +748,11 @@
     <MESSAGE value="Big update" />
     <MESSAGE value="trying to fix database errors :(" />
     <MESSAGE value="&#10;FIx" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;FIx" />
+    <MESSAGE value="&#10;FIx 2" />
+    <MESSAGE value="&#10;FIx 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;FIx 3" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/youtube/list-partners.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="4" column="149" selection-start-line="4" selection-start-column="149" selection-end-line="4" selection-end-column="149" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/youtube/view-user.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/network/list-partners.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="9" column="20" selection-start-line="9" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/contract.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="48" column="69" selection-start-line="48" selection-start-column="69" selection-end-line="48" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ChannelController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="93" selection-start-line="93" selection-end-line="93" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/app_dashboard.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="79" column="31" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/ChannelEarnings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/earnings/channel.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/user/channels.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/user/payments.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="47" column="63" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/NavigationMenu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="80" column="61" selection-start-line="80" selection-start-column="61" selection-end-line="80" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Network/NetworkSettingsController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="31" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Network/UserManagementController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/YouTube/UserManagementController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/EarningsController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/auth/register.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2159">
-          <caret line="127" column="46" selection-start-line="127" selection-start-column="46" selection-end-line="127" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/migrations/2018_02_21_224314_create_sessions_table.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/PasswordController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-135" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/UserController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="38" column="27" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/migrations/2018_02_21_224928_ReferralController.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/migrations/2018_04_27_185253_dm.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="15" column="17" selection-start-line="15" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/migrations/2018_02_21_224627_AddReferral.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/migrations/2016_02_17_190716_ranks.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="29" column="33" selection-start-line="22" selection-start-column="8" selection-end-line="43" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/database/migrations/2016_02_18_125054_addRankLinks.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -915,13 +815,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Eloquent/ChannelLinkStatus.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -932,16 +825,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/auth/login.blade.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/auth/passwords/email.blade.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/auth/passwords/reset.blade.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
@@ -951,23 +838,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/session.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-969" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/UserReferrals.php">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/User.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          <folding>
-            <element signature="e#23#58#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -976,13 +848,172 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="259" lean-forward="true" selection-start-line="259" selection-end-line="259" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/PasswordController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding>
+            <element signature="e#45#81#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/auth/register.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="127" column="46" selection-start-line="127" selection-start-column="46" selection-end-line="127" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/auth/emails/password.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/app_dashboard.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="79" column="31" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Apps/App.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-241" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/session.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2009" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1482" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-224" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/services.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-207" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-190">
+          <caret line="80" column="6" lean-forward="true" selection-start-line="80" selection-start-column="6" selection-end-line="80" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-547">
+          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding>
+            <element signature="e#23#58#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/AuthServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="238">
+          <caret line="59" column="42" selection-start-line="59" selection-start-column="42" selection-end-line="59" selection-end-column="42" />
           <folding>
             <element signature="e#43#56#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AcademyController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1210" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AdminController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ChannelController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1261" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CollabController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/EarningsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/GearController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/SystemController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/TrendsController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/auth/login.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/app_login.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/app_register.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
         </state>
       </provider>
     </entry>
