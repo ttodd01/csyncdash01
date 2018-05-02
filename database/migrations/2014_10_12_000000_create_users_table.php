@@ -28,6 +28,7 @@ class CreateUsersTable extends Migration
             $table->integer('birth_day')->nullable();
             $table->integer('birth_month')->nullable();
             $table->integer('birth_year')->nullable();
+            $table->string('dailymotion');
 
             $table->rememberToken();
             $table->timestamps();
