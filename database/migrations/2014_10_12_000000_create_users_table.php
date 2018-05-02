@@ -31,7 +31,6 @@ class CreateUsersTable extends Migration
             $table->string('dailymotion');
             $table->engine = 'InnoDB';
             $table->integer('rank')->unsigned()->nullable();
-            $table->foreign('rank')->references('id')->on('user_ranks')->onDelete('cascade');
             $table->boolean('has_connected_channel')->default(0);
             $table->integer('head_network');
 
