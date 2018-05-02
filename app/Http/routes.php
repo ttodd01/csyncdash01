@@ -34,7 +34,6 @@ Route::group(['middleware' => ['web']], function () {
 
     });
 });
-Route::get('/via/{ref}', ['as' => 'refer', 'uses' => 'ReferralController@referUser']);
 
 Route::group(['middleware' => ['web', 'DefaultMenu']], function () {
     Route::auth();

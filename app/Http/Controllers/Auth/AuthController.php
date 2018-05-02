@@ -1,6 +1,5 @@
 <?php
 namespace App\Http\Controllers\Auth;
-use App\Models\UserReferrals;
 use App\User;
 use Session;
 use Validator;
@@ -70,18 +69,8 @@ class AuthController extends Controller
             'password' => bcrypt($data['password']),
             'rank' => 1,
             'head_network' => 1,
-            'referred_by' => $referred == true ? session('referred_by') : null,
 
         ]);
-        if($referred == true)
-        {
-            UserReferrals::create([
-                'referred_user_id' => $user->id,
-                'referred_by_user_id' => session('referred_by')
-            ]);
-        }
-       // if(Session::has('referred_by'))
-            //Session::remove('referred_by');
         return $user;
 
     }
