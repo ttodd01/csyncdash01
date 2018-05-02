@@ -55,7 +55,6 @@ class AuthController extends Controller
     }
     protected function create(array $data)
     {
-
         $user = User::create([
             'full_name' => $data['full_name'],
             'username' => $data['username'],
@@ -67,7 +66,6 @@ class AuthController extends Controller
             'head_network' => 1,
 
         ]);
-        return $user;
 
     }
 }
