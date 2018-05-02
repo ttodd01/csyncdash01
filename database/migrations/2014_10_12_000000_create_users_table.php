@@ -43,7 +43,7 @@ class CreateUsersTable extends Migration
                 'username' => 'ttodd',
                 'email' => 'tim@creatorsync.com',
                 'full_name' => 'Tim Todd',
-                'paypal' => 'tim@creatorsync.com',
+                'paypal_email' => 'tim@creatorsync.com',
                 'password' => '$10$GQL2UOSgvRKzD0SPvKD27O.hy240jwO8/AFKpA30OF7k51SM7faBm',
                 'rev_share' => '70',
                 'rank' => '4',
