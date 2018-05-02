@@ -12,10 +12,7 @@ class AddUserStats extends Migration
      */
     public function up()
     {
-        Schema::table('users', function (Blueprint $table) {
-            $table->boolean('has_connected_channel')->default(0);
 
-        });
         Schema::create(\Config::get('youtubeconfig.table_name'), function (Blueprint $table) {
             $table->increments('id');
             $table->integer('user_id');
@@ -33,6 +30,8 @@ class AddUserStats extends Migration
             $t->integer('views')->unsigned();
             $t->integer('subscribers')->unsigned();
             $t->integer('videos')->unsigned();
+            $t->boolean('has_connected_channel')->default(0);
+
             $t->timestamps();
 
         });

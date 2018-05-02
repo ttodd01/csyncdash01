@@ -27,12 +27,14 @@ class Networksettings extends Migration
             $t->string('youtube')->nullable();
             $t->string('instagram')->nullable();
             $t->string('user_id')->nullable();
+            $t->string('support_url')->nullable();
+            $t->string('business_name')->nullable();
+            $t->string('telephone_number')->nullable();
+            $t->string('email_address')->nullable();
+
         });
 
-        Schema::table('users', function(Blueprint $t) {
-            $t->integer('head_network');
 
-        });
         DB::table('user_network')->insert([
             [
                 'name' => 'CreatorSync',
