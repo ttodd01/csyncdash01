@@ -1,7 +1,6 @@
 <?php
 namespace App\Http\Controllers\Auth;
 use App\User;
-use Session;
 use Validator;
 use App\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\ThrottlesLogins;
@@ -57,9 +56,6 @@ class AuthController extends Controller
     protected function create(array $data)
     {
 
-        $referred = false;
-        if(Session::has('referred_by'))
-            $referred = true;
         $user = User::create([
             'full_name' => $data['full_name'],
             'username' => $data['username'],
