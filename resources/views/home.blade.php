@@ -24,7 +24,7 @@
 <div class="panel panel-default">
 <div class="panel-body">
 <h1>Tools</h1>
-<a href=""><button type="button" class="btn btn-block btn-primary">Primary</button></a>
+<a href="{{url('apps/tools')}}"><button type="button" class="btn btn-block btn-primary">View Tools</button></a>
 </div>
 </div>
 </div>
@@ -32,15 +32,15 @@
 <div class="panel panel-default">
 <div class="panel-body">
 <h1>Sponsorships</h1>
-<a href=""><button type="button" class="btn btn-primary">Primary</button></a>
+<a href="{{url('')}}apps/sponsorships"><button type="button" class="btn btn-block btn-primary">View Sponsorships</button></a>
 </div>
 </div>
 </div>
 <div class="col-md-4">
 <div class="panel panel-default">
 <div class="panel-body">
-<h1>Revenue</h1>
-<a href=""><button type="button" class="btn btn-primary">Primary</button></a>
+<h1>Payments</h1>
+<a href="{{url('')}}user/payments"><button type="button" class="btn btn-primary">View Payments</button></a>
 </div>
 </div>
 </div>
