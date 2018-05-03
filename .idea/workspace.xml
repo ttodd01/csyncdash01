@@ -4,8 +4,6 @@
     <list default="true" id="c5e14654-c130-419a-998f-f8f4d0d8e27b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Network/UserManagementController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Network/UserManagementController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/auth/register.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/register.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app_register.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app_register.blade.php" afterDir="false" />
     </list>
     <ignored path="PurityDashboard.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -61,8 +59,8 @@
       <file leaf-file-name="UserManagementController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Network/UserManagementController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="23" column="60" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
+            <state relative-caret-position="306">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -540,7 +538,7 @@
       <workItem from="1519396551587" duration="749000" />
       <workItem from="1519495463751" duration="894000" />
       <workItem from="1519556608488" duration="319000" />
-      <workItem from="1525299834798" duration="5768000" />
+      <workItem from="1525299834798" duration="5855000" />
     </task>
     <task id="LOCAL-00001" summary="TurboLinks">
       <created>1454667631955</created>
@@ -738,11 +736,18 @@
       <option name="project" value="LOCAL" />
       <updated>1525334370398</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Minor Bug fixes">
+      <created>1525334878871</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1525334878871</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56727000" />
+    <option name="totallyTimeSpent" value="56814000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -813,7 +818,8 @@
     <MESSAGE value="&#10;FIx 4" />
     <MESSAGE value="&#10;FIx 5" />
     <MESSAGE value="Updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updates" />
+    <MESSAGE value="Minor Bug fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minor Bug fixes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1088,8 +1094,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Network/UserManagementController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="23" column="60" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
+        <state relative-caret-position="306">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>

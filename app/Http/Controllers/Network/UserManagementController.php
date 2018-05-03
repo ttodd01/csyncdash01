@@ -23,7 +23,6 @@ class UserManagementController extends Controller
         return view('network.list-partners', [
             'pending_partners' => User::where('head_network')
                 ->orWhere(['rank' => 4])
-                ->orWhere(['user_id' => 2])
 
                 ->paginate(10)
         ]);
