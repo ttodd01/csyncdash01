@@ -54,7 +54,7 @@ class AuthController extends Controller
     }
     protected function create(array $data)
     {
-        $user = User::create([
+        return User::create([
             'full_name' => $data['full_name'],
             'username' => $data['username'],
             'dailymotion' => $data['dailymotion'],
