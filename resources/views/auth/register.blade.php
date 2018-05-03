@@ -15,7 +15,7 @@
                 </div>
                 <div class="news-caption">
                     <h4 class="caption-title"><i class="fa fa-money text-success"></i> CreatorSync</h4>
-                    <p>
+                    <p> DailyMotion Partnership Network
                     </p>
                 </div>
             </div>
@@ -114,7 +114,7 @@
 
                         <div class="checkbox m-b-30">
                             <label>
-                                <input type="checkbox" /> By clicking Sign Up, you agree to our <a href="#">Terms</a> and that you have read our <a href="#">Data Policy</a>, including our <a href="#">Cookie Use</a>.
+                                <input type="checkbox" required="required" /> By clicking Sign Up, you agree to our <a href="#">Terms</a> and that you have read our <a href="#">Data Policy</a>, including our <a href="#">Cookie Use</a>.
                             </label>
                         </div>
                         <div class="register-buttons">
