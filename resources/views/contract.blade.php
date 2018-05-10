@@ -25,11 +25,8 @@
 <p class="c8 c12"><span class="c7">from targeted advertising next to video content: {{ Auth::user()->rev_share }} </span>
 <span class="c3 c0">%</span></p><p class="c8 c12"><span class="c7">&nbsp;Fixed Term: </span>
 <span class="c3 c0">&nbsp;1 Year Starting from {{ Auth::user()->created_at }} </span></p>
-<p class="c8 c12"><span class="c7">&nbsp;Access to Supplier&rsquo;s online channel growth guide: </span>
-<span class="c3 c0">Yes</span></p><p class="c8 c12">
-<span class="c7">&nbsp;Access to brand sponsorship opportunities: </span><span class="c3 c0">No</span></p>
-<p class="c8 c12"><span class="c0">&nbsp;</span><span class="c7">Access to additional advertising revenue schemes: </span>
-<span class="c3 c0">No</span></p><p class="c8 c12">
+<span class="c7">&nbsp;Payment Threshold: £25 </p>
+
 <span class="c7">Channel verification including higher search engine rank: </span>
 <span class="c3 c0">Subject to approval from DailyMotion</span></p><p class="c8 c12">
 <span class="c1">Termination: Any time after the Commencement Date by e-mail to Supplier </span></p>

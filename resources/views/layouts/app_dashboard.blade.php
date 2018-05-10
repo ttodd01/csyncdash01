@@ -86,7 +86,9 @@
             <ul class="nav">
 
                 @include('partials.menu.items', ['items'=> $menu_Default->roots()])
-
+<li>
+    <a href="https://creatorsync.freshdesk.com/support/home" target="_blank"><i class="fa fa-info-circle"></i> Support Desk</a>
+</li>
 
 
                 <li><a href="javascript:;" class="sidebar-minify-btn" data-click="sidebar-minify"><i class="fa fa-angle-double-left"></i></a></li>
@@ -102,7 +104,7 @@
     <!-- begin #content -->
     <div id="content" class="content">
 <div class="alert alert-success">
-  <strong>Notice!</strong> Our Dashboard is currently in development and some features will not be fully working
+  <strong>Notice!</strong> Our Dashboard is currently in Early Alpha Stages. We are sorry if some of the features do not work.
 </div>
 
 
@@ -110,7 +112,7 @@
         @yield('content')
 <footer>
     <hr>
-    &copy; 2018 {{Auth::user()->getHeadCompany->name}}
+    &copy; 2018 {{Auth::user()->getHeadCompany->name}} | Software Build: 1.0
 </footer>
     </div>
     <!-- end #content -->

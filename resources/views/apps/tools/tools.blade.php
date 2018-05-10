@@ -19,7 +19,7 @@
             <div class="image ">
                 <div class="image-inner">
                     <a href="{{url('/collab')}}">
-                        <img src="{{ asset('assets\img\header_logo.png') }}" alt="" />
+                        <img src="{{ asset('assets\img\collab.jpg') }}" alt="" />
                     </a>
                     <p class="image-caption">
                         Tool
@@ -31,7 +31,7 @@
                         <small>by</small> <a href="javascript:;">{{Auth::user()->getHeadCompany->name}}</a>
                     </div>
                     <div class="desc">
-                        Information goes Here!
+                        With our Collab Tool you can collaborate with our other Partners to make awesome videos!
                     </div>
                 </div>
             </div>
@@ -61,10 +61,10 @@
             <div class="image ">
                 <div class="image-inner">
                     <a href="">
-                        <img src="{{ asset('assets\img\header_logo.png') }}" alt="" />
+                        <img src="{{ asset('assets\img\cid.jpg') }}" alt="" />
                     </a>
                     <p class="image-caption">
-                        Test
+                        Tool
                     </p>
                 </div>
                 <div class="image-info">
@@ -80,10 +80,10 @@
             <div class="image ">
                             <div class="image-inner">
                                 <a href="">
-                                    <img src="{{ asset('assets\img\header_logo.png') }}" alt="" />
+                                    <img src="{{ asset('assets\img\verify.jpg') }}" alt="" />
                                 </a>
                                 <p class="image-caption">
-                                    Test
+                                    Tool
                                 </p>
                             </div>
                             <div class="image-info">
@@ -98,11 +98,11 @@
                         </div>
                         <div class="image ">
                                         <div class="image-inner">
-                                            <a href="">
-                                                <img src="{{ asset('assets\img\header_logo.png') }}" alt="" />
+                                            <a target="_blank" href="https://pixabay.com/">
+                                                <img src="{{ asset('assets\img\royalty.jpg') }}" alt="" />
                                             </a>
                                             <p class="image-caption">
-                                            Test
+                                            Tool
                                             </p>
                                         </div>
                                         <div class="image-info">
@@ -112,17 +112,17 @@
                                                 <small>by</small> <a href="javascript:;">{{Auth::user()->getHeadCompany->name}}</a>
                                             </div>
                                             <div class="desc">
-                                                Information goes Here!
+                                               Do you need royalty free images for your videos or social media accounts? We recommend Pixa Bay!
                                             </div>
                                         </div>
                                     </div>
                                             <div class="image ">
                                                                             <div class="image-inner">
                                                                                 <a href="">
-                                                                                    <img src="{{ asset('assets\img\header_logo.png') }}" alt="" />
+                                                                                    <img src="{{ asset('assets\img\gear.jpg') }}" alt="" />
                                                                                 </a>
                                                                                 <p class="image-caption">
-Test                                                                               </p>
+                                                                                    Tool</p>
                                                                             </div>
                                                                             <div class="image-info">
                                                                                 <h5 class="title">Recommended Gear  </h5>
@@ -134,6 +134,24 @@ Test                                                                            
                                                                                 </div>
                                                                             </div>
                                                                         </div>
+        <div class="image ">
+            <div class="image-inner">
+                <a href="https://creatorsync.freshdesk.com/support/home">
+                    <img src="{{ asset('assets\img\help.jpg') }}" alt="" />
+                </a>
+                <p class="image-caption">
+                    Tool</p>
+            </div>
+            <div class="image-info">
+                <h5 class="title">Official CreatorSync Help Desk  </h5>
+                <div class="pull-right">
+                    <small>by</small> <a href="javascript:;">{{Auth::user()->getHeadCompany->name}}</a>
+                </div>
+                <div class="desc">
+                    Here you can submit your support queries.
+                </div>
+            </div>
+        </div>
     </div>
 
 @endsection
